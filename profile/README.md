@@ -15,7 +15,7 @@
 
 | | 是什么 | 从这里开始 |
 |:---|:---|:---|
-| **方法**<br>《AI 投资指南》 | 8 篇。核心一句：AI 替你降噪、梳理，判断你自己来。投研、策略、操盘、复盘、Agent 每一层为什么这么搭、怎么做 | 先想弄懂思路 → [在线阅读](https://yongmai.xyz/ai-invest-guide/) |
+| **方法**<br>[《AI 投资指南》](https://github.com/Evan-XYZ/ai-invest-guide) | 8 篇。核心一句：AI 替你降噪、梳理，判断你自己来。投研、策略、操盘、复盘、Agent 每一层为什么这么搭、怎么做 | 先想弄懂思路 → [仓库](https://github.com/Evan-XYZ/ai-invest-guide) · [网页版](https://yongmai.xyz/ai-invest-guide/) |
 | **动作**<br>[ymskill](https://github.com/Evan-XYZ/ymskill) | 指南的可运行版本：1 个总入口、7 个模块、28 个投资流程动作。装进 Claude Code、Codex、Cursor、OpenClaw、Hermes 这类 Agent，用中文说要做的事就行 | 已经有自己的笔记库，只想要动作 → [仓库](https://github.com/Evan-XYZ/ymskill) · [介绍页](https://yongmai.xyz/ymskill/) |
 | **打样**<br>[YMOS](https://github.com/Evan-XYZ/YMOS) | 照着方法搭好的一整套 AI 结构化投资系统：投研层、策略内核层、操盘层，加一条用真实结果改进规则的反馈闭环。本地 Markdown 文件夹，可配桌面客户端 | 想要一套现成的系统，照着用或魔改 → [仓库](https://github.com/Evan-XYZ/YMOS) · [文档](https://yongmai.xyz/ymos-docs/) |
 
